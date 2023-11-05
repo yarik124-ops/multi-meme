@@ -79,6 +79,8 @@ a {
   align-items: center;
   gap: 32px;
   margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .meme-container__image {
   width: 100%;
